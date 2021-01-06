@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "my-bwm"
+  "defaultProject": "my-bwm",
+  "cli": {
+    "analytics": "bdbf7dd8-0774-4339-8407-777dcffe9c1a"
+  }
 }
